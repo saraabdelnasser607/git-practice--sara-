@@ -1,2 +1,5 @@
-sara
-
+I am Sara Abdelnasser.
+I enjoy cooking and coding.
+My goal is to become a skilled full-stack developer.
+Hobby:
+I like reading and drawing. I do them in my free time
